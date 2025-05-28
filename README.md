@@ -27,9 +27,14 @@ A full-stack demo that shows how to:
 
 ## ✨ Screenshots
 
-| Light Mode | Dark Mode |
-| ---------- | --------- |
-| <img src="screenshots/users.png" width="100%"/> | <img src="docs/screenshot-dark.png" width="100%"/> |
+<h1>Logs</h1>
+<img src="screenshots/logs" width="100%"/>
+
+<h1>Users</h1>
+<img src="screenshots/users.png" width="100%"/>
+
+<h1>Users</h1>
+<img src="screenshots/users.png" width="100%"/>
 
 > **Tip:** Hit the in-app 🌙 / ☀️ toggle to switch instantly.
 
