@@ -28,13 +28,13 @@ A full-stack demo that shows how to:
 ## ✨ Screenshots
 
 <h1>Logs</h1>
-<img src="screenshots/logs" width="100%"/>
+<img src="screenshots/logs.png" width="100%"/>
 
 <h1>Users</h1>
 <img src="screenshots/users.png" width="100%"/>
 
-<h1>Users</h1>
-<img src="screenshots/users.png" width="100%"/>
+<h1>Config</h1>
+<img src="screenshots/config.png" width="100%"/>
 
 > **Tip:** Hit the in-app 🌙 / ☀️ toggle to switch instantly.
 
