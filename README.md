@@ -36,8 +36,6 @@ A full-stack demo that shows how to:
 <h1>Config</h1>
 <img src="screenshots/config.png" width="100%"/>
 
-> **Tip:** Hit the in-app 🌙 / ☀️ toggle to switch instantly.
-
 ---
 
 ## 🚀 Quick Start
