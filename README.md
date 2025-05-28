@@ -29,7 +29,7 @@ A full-stack demo that shows how to:
 
 | Light Mode | Dark Mode |
 | ---------- | --------- |
-| <img src="docs/screenshot-light.png" width="100%"/> | <img src="docs/screenshot-dark.png" width="100%"/> |
+| <img src="screenshots/users.png" width="100%"/> | <img src="docs/screenshot-dark.png" width="100%"/> |
 
 > **Tip:** Hit the in-app 🌙 / ☀️ toggle to switch instantly.
 
